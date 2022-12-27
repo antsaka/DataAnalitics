@@ -20,7 +20,7 @@ Ada berapa anggota masing-masing cluster
 Bagaimana ciri2 masing2 cluster
 KlasterisasiURL
 
-Link Colab as Ref :
+# Link Colab as Ref :
 
 https://lms.telkomuniversity.ac.id/mod/url/view.php?id=2699080
 
