@@ -1,4 +1,4 @@
-Link Colab :
+Link Colab as ref :
 https://lms.telkomuniversity.ac.id/mod/url/view.php?id=2699080
 
 https://lms.telkomuniversity.ac.id/mod/url/view.php?id=2699112
